@@ -5,4 +5,4 @@ Tic Tac Toe is a common game played by us. It's a small project made by me in py
 Install pygame in python editor by writing pip install pygame
 
 ### License
-Licensed under the MIT License
+Licensed under the [MIT License](https://github.com/Tanuka-Mondal/Tic-Tac-Toe/blob/main/LICENSE)
