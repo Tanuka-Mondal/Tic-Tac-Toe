@@ -7,4 +7,6 @@ Install pygame in python editor by writing pip install pygame
 ### License
 Licensed under the [MIT License](https://github.com/Tanuka-Mondal/Tic-Tac-Toe/blob/main/LICENSE)
 
+
+### Game preview
 ![](https://github.com/Tanuka-Mondal/Tic-Tac-Toe/blob/main/image3.png)
